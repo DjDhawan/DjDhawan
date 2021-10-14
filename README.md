@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dheeraj Dhawan
 - 👀 I’m using GITHUB to store my IBMi sources
 - 🌱 I’m currently learning anything and everything that grab my attention
-- 💞️ I’m looking to collaborate on IBMi modernization.....
+- 💞️ I’m looking to collaborate on IBMi modernization
 - 📫 You can reach me on 'dheerajdhawan.as400@gmail.com'
 
 <!---
